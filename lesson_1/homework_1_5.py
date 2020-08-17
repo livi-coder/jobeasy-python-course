@@ -18,6 +18,6 @@ result_value = None
 # Enter a random number, then save the value to n variable.
 # Finally, you should repeat the variable "word" n times and save the value to result_string_3
 
-n = None
+n = 35
 word = 'super'
-result_string_3 = None
+result_string_3 = World
